@@ -1,4 +1,4 @@
-# aatmatoday Hobby Matchmaker<img width="720" height="1600" alt="Screenshot_2026-08-31-15-09-38-782_com android chrome" src="https://github.com/user-attachments/assets/9261a2ad-354e-4523-bdf2-81c2e4bda814" />
+# aatmatoday Hobby Matchmaker
 
 
 > Less directory. More nudge.
