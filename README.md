@@ -1,11 +1,19 @@
-# aatmatoday Hobby Matchmaker
 
+# aatmatoday Hobby Matchmaker
 
 > Less directory. More nudge.
 
 aatmatoday Hobby Matchmaker is a student-friendly discovery app that turns a free-form description of someone's interests into relevant campus communities, upcoming events, match reasoning, and a personalized icebreaker.
 
 Instead of asking students to browse a long directory or choose from rigid dropdowns, the app lets them describe what they are curious about in their own words.
+
+## Live website
+
+Try the published website:
+
+**[Open aatmatoday Hobby Matchmaker](https://aatmoday-hobby-matchmaker--shaviii.replit.app)**
+
+The website is currently published publicly on Replit. Students can enter an interest, choose a live community suggestion, view personalized matches, and open the shared WhatsApp community link.
 
 ## Features
 
@@ -30,6 +38,8 @@ The MVP currently includes:
 - Photography
 - Fitness
 - Fine Arts & Creative Club
+- Gardening Club
+- Cooking Club
 
 The catalog is intentionally curated in the API server so the first version works without account setup, third-party AI credentials, or external service configuration.
 
@@ -212,5 +222,3 @@ This keeps the experience fast and predictable while leaving room for a future p
 4. Regenerate the API client and validation schemas when the contract changes.
 5. Run `pnpm run typecheck` and `pnpm run build`.
 6. Open a pull request describing the user-facing change.
-
-
